@@ -9,7 +9,7 @@ conda activate happywhale
 ```
 
 #### Solution
-link
+https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/319828
 
 #### Train
 to train and test cnn models
